@@ -1,33 +1,19 @@
 {
-  "name": "bourbon-neat",
+  "name": "getbuffalowater-bourbon-neat",
   "version": "1.8.0",
-  "description": "A lightweight, semantic grid framework",
-  "keywords": [
-    "columns",
-    "grid",
-    "layout",
-    "media",
-    "media-queries",
-    "neat",
-    "queries",
-    "sass",
-    "scss",
-    "semantic",
-    "eyeglass-module"
-  ],
-  "homepage": "http://neat.bourbon.io",
+  "description": "A lightweight, semantic grid framework for GetBuffaloWater",
   "bugs": {
-    "url": "https://github.com/thoughtbot/neat/issues"
+    "url": "https://github.com/mpbrown/neat-1.8.0/issues"
   },
   "license": "MIT",
-  "author": {
-    "name": "thoughtbot",
-    "url": "http://thoughtbot.com"
-  },
+  "contributors": [
+    "thoughtbot (http://thoughtbot.com)",
+    "Mike Brown <mpbrown@buffalo.edu>"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thoughtbot/neat.git"
+    "url": "https://github.com/mpbrown/neat-1.8.0.git"
   },
   "scripts": {
     "test": "echo \"No test specified\""
